@@ -1,0 +1,28 @@
+{
+  "name": "react-native-chillest-monkey",
+  "version": "1.0.2",
+  "description": "render the chillest monkey in your react native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboyd/react-native-chillest-monkey.git"
+  },
+  "keywords": [
+    "chillest",
+    "monkey",
+    "react-native"
+  ],
+  "author": "Charles Lowell <cowboyd@frontside.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cowboyd/react-native-chillest-monkey/issues"
+  },
+  "homepage": "https://github.com/cowboyd/react-native-chillest-monkey#readme",
+  "devDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
