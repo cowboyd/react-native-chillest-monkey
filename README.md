@@ -31,9 +31,7 @@ import ChillestMonkey from 'react-native-chillest-monkey';
 export default class App extends Component {
   render() {
     return (
-      <View style={styles.container}>
-        <ChillestMonkey/>
-      </View>
+      <ChillestMonkey style={Styles.monkey}/>
     );
   }
 }
