@@ -6,7 +6,7 @@ Embed the [chillest monkey][1] into your React Native application at any
 point at which your users need to recalibrate their scale of chill to
 absolute maximum.
 
-![Chillest Monkey](http://g.recordit.co/oQZwFqglic.gif)
+![Chillest Monkey](https://raw.githubusercontent.com/cowboyd/react-native-chillest-monkey/master/monkey.gif)
 
 
 ## Installation
